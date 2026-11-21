@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "stalkerware": [],
+  "keywords": ["spy", "stalk", "keylog", "snoop", "spouse"],
+  "combos": [
+    ["RECORD_AUDIO", "READ_SMS", "ACCESS_FINE_LOCATION"],
+    ["RECORD_AUDIO", "READ_CALL_LOG"],
+    ["CAMERA", "READ_SMS", "ACCESS_FINE_LOCATION"],
+    ["READ_SMS", "READ_CONTACTS", "ACCESS_FINE_LOCATION"]
+  ]
+}
